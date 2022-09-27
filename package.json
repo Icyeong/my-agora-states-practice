@@ -8,7 +8,7 @@
     "dev": "nodemon my-agora-states-server/app.js",
     "test": "jest",
     "build": "webpack",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d docs"
   },
   "repository": {
     "type": "git",
